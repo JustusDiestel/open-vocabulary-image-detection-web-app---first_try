@@ -1,0 +1,18 @@
+main {
+  max-width: 900px;
+  margin: 40px auto;
+  font-family: Arial, sans-serif;
+}
+
+input,
+button {
+  display: block;
+  margin: 12px 0;
+  padding: 8px;
+}
+
+canvas {
+  max-width: 100%;
+  border: 1px solid #ccc;
+  margin-top: 20px;
+}
